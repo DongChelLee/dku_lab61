@@ -1,4 +1,1 @@
-D:\work\test\dku_lab61>git add .
-D:\work\test\dku_lab61>git commit -m comment
-	[master 1d172dd] comment
-	1 file changed, 1 insertion(+), 1 deletion(-)
+hello man~~
